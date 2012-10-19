@@ -1,4 +1,3 @@
-larig.github.com
-================
+# Larig Tech
 
-Home page
+http://larig.github.com/
